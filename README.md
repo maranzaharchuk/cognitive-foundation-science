@@ -1,5 +1,7 @@
 # Predicting Human Behavior: From Cognitive Theories and Inverse Models to Centaur and Foundation Architectures for Cognition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17132090.svg)](https://doi.org/10.5281/zenodo.17132090)
+
 This repository hosts the **blueprint and project materials** for a research article that examines the historical trajectory of cognitive modeling — from small-scale theories and inverse models to the emergence of *Centaur* and foundation-style architectures.
 
 ## Overview
