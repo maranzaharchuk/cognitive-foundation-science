@@ -1,0 +1,68 @@
+# Project Roadmap – Predicting Human Behavior
+
+This roadmap outlines the planned phases for the article and pilot study described in the blueprint.  
+Current status: **Blueprint prepared and uploaded to Zenodo with DOI.**
+
+---
+
+## Phase 1: Blueprint & Article Draft 
+- [x] Drafted blueprint (historical framing + empirical study plan).
+- [x] Uploaded blueprint to Zenodo for DOI assignment.
+- [x] Created GitHub repository with README, ROADMAP, and blueprint.
+- [х] Expand full article draft (background + historical synthesis).
+
+---
+
+## Phase 2: Collaboration & Access
+- [ ] **Contact Centaur author team (Binz et al.)**:  
+  - Purpose: request guidance on running *Centaur* for both choices and textual explanations.  
+  - Offer: share blueprint + Zenodo DOI + article draft outline.  
+  - Goal: explore co-authorship or technical collaboration.  
+- [ ] Reach out to potential confirmatory co-authors:  
+  - **Centaur authors** (Binz et al., 2025) — legitimacy + access.  
+  - **Historical modeling experts** (Joshua Tenenbaum, Samuel Gershman, Tom Griffiths) — validate theoretical framing.  
+  - **Institutional anchors** (Max Planck Institute, UCL) — strengthen visibility in top journals.  
+  - **Experimental psychology PI** — ensure methodological and ethical robustness for pilot data.  
+  - **Behavioral data & interpretive analysis expert** — confirm validity of pilot study analyses (GLMMs, embeddings, semantic clustering).  
+- [ ] Define roles and contributions for all confirmed co-authors (CRediT taxonomy).
+
+---
+
+## Phase 3: Pilot Study (Proof-of-Concept)
+- [ ] Finalize task battery (Ultimatum Game, Stroop, N-back).
+- [ ] Ethics approval and preregistration (OSF).
+- [ ] Recruit participants (n ≈ 50–60).
+- [ ] Collect human behavioral and verbalization data.
+- [ ] Generate *Centaur* outputs (choices + explanations) once access is possible (through collaboration or API).
+- [ ] Build analysis pipeline:
+  - Behavioral match (GLMM, χ², KL-divergence).
+  - Interpretive match (cosine similarity, embeddings, clustering).
+  - Latent strategy mapping (expert coding).
+
+---
+
+## Phase 4: Integration & Writing
+- [ ] Integrate pilot results with historical synthesis.
+- [ ] Draft results and discussion sections.
+- [ ] Highlight opportunities and open challenges of foundation-style architectures.
+- [ ] Circulate manuscript among collaborators for comments and revisions.
+
+---
+
+## Phase 5: Publication & Dissemination
+- [ ] Target journals:  
+  - *Trends in Cognitive Sciences*  
+  - *Behavioral and Brain Sciences*  
+  - *Nature Reviews Psychology*  
+  - *Nature Human Behaviour*  
+- [ ] Submit manuscript for peer review.
+- [ ] Release open dataset (paired human–model responses).
+- [ ] Publish reproducible analysis code (GitHub + Zenodo release).
+
+---
+
+## Phase 6: Validation & Community Integration
+- [ ] Independent replication: invite collaborators to run the same pilot study with Centaur or related models.  
+- [ ] Cross-lab confirmation: coordinate with at least one external lab (cognitive science / psychology) to reproduce results.  
+- [ ] Workshop / symposium: present results at a major venue (e.g., CogSci, NeurIPS workshops, Cognitive Computational Neuroscience).  
+- [ ] Publish commentary or target BBS open peer commentary format to maximize engagement.  
